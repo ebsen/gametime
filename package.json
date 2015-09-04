@@ -1,0 +1,17 @@
+{
+  "name": "gametime",
+  "description": "A super-simple page for keeping score during a game",
+  "author": "Erik Ebsen <erik.ebsen@me.com",
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^1.7.2",
+    "colors.css": "^2.3.0",
+    "gulp": "^3.8.10",
+    "gulp-debug": "^1.0.1",
+    "gulp-util": "^3.0.3",
+    "harp": "^0.14.0"
+  },
+  "dependencies": {
+    "fastclick": "^1.0.6"
+  }
+}
