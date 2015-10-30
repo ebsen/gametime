@@ -1,7 +1,7 @@
 {
   "name": "gametime",
   "description": "A super-simple page for keeping score during a game",
-  "author": "Erik Ebsen <erik.ebsen@me.com",
+  "author": "Erik Ebsen <erik.ebsen@me.com>",
   "private": true,
   "devDependencies": {
     "browser-sync": "^1.7.2",
